@@ -26,7 +26,7 @@
 
 
 
-This is a downloader developed by xiaojo for downloading Netease cloud music!
+This is a downloader developed by HenryJiu for downloading Netease cloud music!
 
 
 
