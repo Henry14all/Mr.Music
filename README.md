@@ -42,6 +42,6 @@ This library is still under construction, information is not all source code ple
 
 
 
-**Disclaimer: all API interfaces for downloading Mr. Music software are from the Internet, and I cannot guarantee its stability. I only provide interface call and download! This program is only for learning communication API calling technology and multi-threaded download, please do not use for commercial purposes! Please remove it completely from your computer within 24 hours after downloading!**
+**Disclaimer: all API interfaces for downloading Mr. Music software are from the Internet, and I cannot guarantee its stability. I only provide interface call and download! This program is only for learning communication API calling technology and multi thread download, please do not use for commercial purposes! If you have any related legal issues, please contact me (plus group contact) or the interface author! Please completely and completely delete all files of this program from any media (including but not limited to the files you share) within 24 hours after downloading! If you do not delete it within 24 hours, please bear the legal problems caused by this! Thank you~**
 
 Powered by [fanyi.baidu.com](fanyi.baidu.com)
